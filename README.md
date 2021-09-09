@@ -4,7 +4,7 @@ This repository is the official PyTorch implementation of the experiments in the
 
 Junran Wu, Jianhao Li, Yicheng Pan\*, Ke Xu\*. Structural Optimization Makes Graph Classification Simpler and Better.
 
-[arXiv]()
+[arXiv](https://arxiv.org/abs/2109.02027)
 
 ## Installation
 
